@@ -1,3 +1,2 @@
 #!/bin/bash
-0	SCHOOL school data
-!:mime school.mgc
+file -c -m school.mgc
